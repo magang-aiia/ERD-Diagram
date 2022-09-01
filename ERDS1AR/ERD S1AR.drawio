@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T05:41:12.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="kpgKTddGydGE0dfrIj2z" version="20.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-09-01T06:00:43.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="TlwKX3WAKnNERXsPCG7t" version="20.2.7" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ERD">
     <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1146,11 +1146,14 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_3VpxjseIK1Il2xVNQCV" name="Flochart">
-    <mxGraphModel dx="413" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="_3VpxjseIK1Il2xVNQCV" name="Flowchart">
+    <mxGraphModel dx="744" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7SM1Da23LmMlLKmC9bEE-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=45;" vertex="1" parent="1">
+          <mxGeometry x="190" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1716,7 +1719,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="damj8h8O6Hs_LvT_FOmv" name="Dokumentasi Class Diagram">
-    <mxGraphModel dx="1020" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1907,7 +1910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aLrhuwa5fGijHk7Txmql" name="Activity Diagram">
-    <mxGraphModel dx="413" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
