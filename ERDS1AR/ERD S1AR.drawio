@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T01:55:56.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ctg_PEBQn6ron_vonxt-" version="20.3.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-09-12T01:56:33.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nsWXGDsM2W9k2qiuv-Lg" version="20.3.0" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Class Diagram">
     <mxGraphModel dx="1260" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2408,9 +2408,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CaAsczlvOeK5HXlUwKyP-1" value="Keterangan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="-855" width="70" height="20" as="geometry" />
+          <mxGeometry x="-1260" y="-880" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CaAsczlvOeK5HXlUwKyP-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="t8wNqy0uW09E_-yMet4Y-147" target="CaAsczlvOeK5HXlUwKyP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1320" y="-610" as="sourcePoint" />
+            <mxPoint x="-1270" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CaAsczlvOeK5HXlUwKyP-3" value="tgl_akhir_izin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="-855" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CaAsczlvOeK5HXlUwKyP-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="t8wNqy0uW09E_-yMet4Y-147" target="CaAsczlvOeK5HXlUwKyP-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1320" y="-610" as="sourcePoint" />
             <mxPoint x="-1270" y="-660" as="targetPoint" />
