@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T00:17:51.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0ogHsuC57sUgy6QYXfKS" version="20.3.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-09-12T00:19:53.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="30CJlJlA-5tM2FfOBP6n" version="20.3.0" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Class Diagram">
     <mxGraphModel dx="2060" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1955,8 +1955,8 @@
         <mxCell id="RdgtxE8HlBH1sp8ggZr8-46" value="Mengajukan Perubahan data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="820" y="432" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RdgtxE8HlBH1sp8ggZr8-47" value="Mengajukan cuti" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="820" y="521" width="120" height="80" as="geometry" />
+        <mxCell id="RdgtxE8HlBH1sp8ggZr8-47" value="Menambah data Karyawan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="980" y="531" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RdgtxE8HlBH1sp8ggZr8-48" value="Melihat riwayat" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="820" y="701" width="120" height="80" as="geometry" />
@@ -2031,6 +2031,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="1000" as="sourcePoint" />
             <mxPoint x="750" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DjQgkZKKlxHWrhHO50S-2" value="mengajukan izin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="820" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6DjQgkZKKlxHWrhHO50S-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="RdgtxE8HlBH1sp8ggZr8-43" target="6DjQgkZKKlxHWrhHO50S-2" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="795" y="622" as="sourcePoint" />
+            <mxPoint x="910" y="672" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DjQgkZKKlxHWrhHO50S-4" value="Menonaktifkan Karyawan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6DjQgkZKKlxHWrhHO50S-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6DjQgkZKKlxHWrhHO50S-4" target="RdgtxE8HlBH1sp8ggZr8-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="720" as="sourcePoint" />
+            <mxPoint x="770" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
