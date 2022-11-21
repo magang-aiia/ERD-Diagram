@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T09:23:36.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="RjJMwNEtUVbNlqawyPsl" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-21T11:04:56.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.52" etag="kCYou0rv3AkIFihMWeY_" version="20.5.3" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Class Diagram">
     <mxGraphModel dx="1718" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -3866,14 +3866,12 @@
             <mxGeometry x="290" y="610" width="118" height="58" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="CYFFt7cgHbo_XWTliYBV-9" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 17px;&quot;&gt;Perubahan Data User&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XYPWXNfssngjy4gAF6z0-18">
+          <mxGeometry x="140" y="450" width="140" height="140" as="geometry" />
+        </mxCell>
         <UserObject label="USER" lucidchartObjectId="XdPMpPdLt651" id="XYPWXNfssngjy4gAF6z0-19">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="-876" y="-490" width="120" height="90" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Perubahan Data User" lucidchartObjectId="XdPMvygIpC8O" id="XYPWXNfssngjy4gAF6z0-20">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="-1230" y="-157" width="152" height="146" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Atasan" lucidchartObjectId="XdPM.0edwd.X" id="XYPWXNfssngjy4gAF6z0-21">
@@ -3913,9 +3911,10 @@
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="XdPMCis--Fdz" id="XYPWXNfssngjy4gAF6z0-27">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.075;exitY=1.012;exitPerimeter=0;entryX=0.5;entryY=-0.008;entryPerimeter=0;" parent="1" source="XYPWXNfssngjy4gAF6z0-19" target="XYPWXNfssngjy4gAF6z0-20" edge="1">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.075;exitY=1.012;exitPerimeter=0;entryX=0.5;entryY=-0.008;entryPerimeter=0;" parent="1" source="XYPWXNfssngjy4gAF6z0-19" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points" />
+              <mxPoint x="-1154" y="-158.1679999999999" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -3935,9 +3934,10 @@
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="XdPMI-qpwipi" id="XYPWXNfssngjy4gAF6z0-31">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;entryX=0.15;entryY=-0.012;entryPerimeter=0;" parent="1" target="XYPWXNfssngjy4gAF6z0-21" edge="1">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;entryX=0.15;entryY=-0.012;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="XYPWXNfssngjy4gAF6z0-21" edge="1" source="CYFFt7cgHbo_XWTliYBV-9">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
+                <mxPoint x="-1150" y="-12" />
                 <mxPoint x="-1011" y="-12" />
                 <mxPoint x="-1011" y="72" />
                 <mxPoint x="-865" y="72" />
